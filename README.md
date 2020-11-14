@@ -8,6 +8,10 @@ Install the requests package<br>
 <code>pip install requests</code>
 <br>
 <br>
+Install the folium package<br>
+<code>pip install folium</code>
+<br>
+<br>
 <p align="center">
   <img src="./images/screenshot.png" />
 </p>
