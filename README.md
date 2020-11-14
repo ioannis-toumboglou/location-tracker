@@ -11,9 +11,13 @@ Install the folium package<br>
 <code>pip install folium</code>
 <br>
 <br>
+Install the folium package<br>
+<code>pip install folium</code>
+<br>
+<br>
 <p align="center">
-    <img src="./images/screenshot.png>
+  <img src="./images/screenshot.png" />
 </p>
 <p align="center">
-    <b>Sample image</b>
+  <b>Sample image</b>
 </p>
