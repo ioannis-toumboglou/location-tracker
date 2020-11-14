@@ -9,8 +9,8 @@ Install the requests package<br>
 <br>
 <br>
 <p align="center">
-    <img src="./images/screenshot.png>
+  <img src="./images/screenshot.png" />
 </p>
 <p align="center">
-    <b>Sample image</b>
+  <b>Sample image</b>
 </p>
