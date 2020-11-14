@@ -3,6 +3,7 @@ The map is exported as an html document.
 <br>
 <br>
 <b>Requirements:</b>
+
 Install the requests package<br>
 <code>pip install requests</code>
 <br>
