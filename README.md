@@ -7,9 +7,6 @@ The map is exported as an html document.
 Install the requests package<br>
 <code>pip install requests</code>
 <br>
-Install the folium package<br>
-<code>pip install folium</code>
-<br>
 <br>
 Install the folium package<br>
 <code>pip install folium</code>
